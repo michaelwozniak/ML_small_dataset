@@ -1,0 +1,20 @@
+SmallDataset:
+Main idea perform as good ml as we can - using algorithms from this semester
+Idea showcase that we understood and learn how to use subjects from this semester
+Jupyter notebooks
+each project should contains:
+-clear descripotion of the data
+- descriptive analtysis; SEDA of the data
+- variable transformation
+- variable selection
+- training
+- comparison of predictive power of different models
+- summary
+- conclusion
+points contains also presentation
+
+-did you use proper CV each time
+-mistake of leakage
+-proper use data on algorithms 
+
+pomysł:stacking;ensemble ;

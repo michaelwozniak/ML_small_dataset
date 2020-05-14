@@ -1,0 +1,18 @@
+Elementy do pokrycia w ramach projektu:
+I initial descriptive analyses of the data
+I variable transformations
+I variable selection methods
+I training/test data division, resampling (e.g. cross-validation,
+down-sampling, up-sampling)
+I comparison of prediction accuracy of at least 3 different
+machine learning methods on test data
+I summary and conclusions
+- comments in Markdown: points contains also presentation
+
+-did you use proper CV each time
+-mistake of leakage
+-proper use data on algorithms 
+- pomysł:stacking;ensemble ;
+
+
+
