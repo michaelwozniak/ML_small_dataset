@@ -1,11 +1,12 @@
 Elementy do pokrycia w ramach projektu:
-I initial descriptive analyses of the data
 I variable transformations
-I variable selection methods
+I variable selection methods: https://scikit-learn.org/stable/modules/permutation_importance.html
 I training/test data division, resampling (e.g. cross-validation,
 down-sampling, up-sampling)
 I comparison of prediction accuracy of at least 3 different
 machine learning methods on test data
+-wytlumaczalnosc https://scikit-learn.org/stable/modules/partial_dependence.html
+
 I summary and conclusions
 - comments in Markdown: points contains also presentation
 
