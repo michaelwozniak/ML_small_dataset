@@ -1,13 +1,13 @@
-I training/test data division, resampling (e.g. cross-validation,
-down-sampling, up-sampling) https://scikit-learn.org/stable/modules/permutation_importance.html
-I comparison of prediction accuracy of at least 3 different
-machine learning methods on test data
+elementy:
+00) wczytanie danych trenujących i ostatecznej tabelki  fs
+0) feature enginnering - for specific model
+1) final feature selection - for specific model- in CV?, https://scikit-learn.org/stable/modules/permutation_importance.html
+2) hyperparameters tuning in CV
+3) wyfitowanie ostatecznego modelu i zapicklowanie modelu
+
 -wytlumaczalnosc https://scikit-learn.org/stable/modules/partial_dependence.html??
+- pomysł:stacking;ensemble ;
 
 I summary and conclusions
 - comments in Markdown: points contains also presentation
-
-- pomysł:stacking;ensemble ;
-
-
 
