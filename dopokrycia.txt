@@ -5,9 +5,6 @@ elementy:
 2) hyperparameters tuning in CV
 3) wyfitowanie ostatecznego modelu i zapicklowanie modelu
 
--wytlumaczalnosc https://scikit-learn.org/stable/modules/partial_dependence.html??
-- pomysł:stacking;ensemble ;
-
 I summary and conclusions
 - comments in Markdown: points contains also presentation
 
