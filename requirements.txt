@@ -16,5 +16,3 @@ points contains also presentation
 -did you use proper CV each time
 -mistake of leakage
 -proper use data on algorithms 
-
-pomysł:stacking;ensemble ;
